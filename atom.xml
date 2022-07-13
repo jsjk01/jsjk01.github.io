@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jsjk01.github.io</id>
+    <title>雪建老师的v1p</title>
+    <updated>2022-07-13T07:06:07.260Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jsjk01.github.io"/>
+    <link rel="self" href="https://jsjk01.github.io/atom.xml"/>
+    <subtitle>世上存在两种万恶根源，那就是急躁与怠惰。</subtitle>
+    <logo>https://jsjk01.github.io/images/avatar.png</logo>
+    <icon>https://jsjk01.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 雪建老师的v1p</rights>
+    <entry>
+        <title type="html"><![CDATA[当你表达否定词，对方便会朝着你不希望的路走]]></title>
+        <id>https://jsjk01.github.io/post/dang-ni-biao-da-fou-ding-ci-dui-fang-bian-hui-zhao-zhao-ni-bu-xi-wang-de-lu-zou/</id>
+        <link href="https://jsjk01.github.io/post/dang-ni-biao-da-fou-ding-ci-dui-fang-bian-hui-zhao-zhao-ni-bu-xi-wang-de-lu-zou/">
+        </link>
+        <updated>2022-05-16T02:17:00.000Z</updated>
+        <content type="html"><![CDATA[<p>当要你不去想一直黑猫的时候，你的大脑就会去想像一只黑猫，问你：是不要想这只黑猫吗？</p>
+<p>视频中案例：</p>
+<blockquote>
+<p>和孩子说，不要跑不要跑，结果，孩子叭的一下就摔倒了。</p>
+<p>老师的做法：</p>
+<blockquote>
+<p>宝宝慢慢来，来，慢慢走过来。</p>
+</blockquote>
+<p>老师的反馈：孩子就自然慢慢走过来了</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>自己想的：</p>
+<ul>
+<li>表达事情和需求最好是正向表达。</li>
+</ul>
+<p>错误的表达：</p>
+<blockquote>
+<p>不要老是 刷抖音 \ 刷微博 \ 打游戏 \ ...</p>
+<blockquote>
+<p>知因：</p>
+<ul>
+<li>
+<p>A觉得B花在事件C上的时间过长，希望B去做事件D或者停止继续做事件C的行为。</p>
+</li>
+<li>
+<p>A觉得自己花在事件C上的时间过长，希望去做事件D或者停止继续做事件C的行为。</p>
+</li>
+</ul>
+</blockquote>
+</blockquote>
+<p>好的表达：</p>
+<blockquote>
+<p>群讨论无效</p>
+</blockquote>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目标要明确啊]]></title>
+        <id>https://jsjk01.github.io/post/mu-biao-yao-ming-que-a/</id>
+        <link href="https://jsjk01.github.io/post/mu-biao-yao-ming-que-a/">
+        </link>
+        <updated>2022-05-16T02:12:57.000Z</updated>
+        <content type="html"><![CDATA[<p>唉</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python养发之路 - 安装篇]]></title>
+        <id>https://jsjk01.github.io/post/python-yang-fa-zhi-lu-an-zhuang-pian/</id>
+        <link href="https://jsjk01.github.io/post/python-yang-fa-zhi-lu-an-zhuang-pian/">
+        </link>
+        <updated>2021-07-03T08:57:06.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>作者：养发两年半的Python数据工程师
+编辑时间： 2021年7月3日
+</code></pre>
+<blockquote>
+<p>作者有话说：</p>
+<ul>
+<li>新手先跟着做，遇到问题直接百度。（跟着教程走，99%不会出问题）</li>
+<li>更新时间：每周更新一次</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>系统配置要求：</p>
+<ul>
+<li>能开机</li>
+<li>能打字</li>
+<li>C盘4G空间以上，本文安装软件均按默认位置安装。
+<ul>
+<li>如果不满足该条件，请在安装过程中自行调整安装路径。（其他安装步骤一致）</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>学习人员要求：</p>
+<ul>
+<li>会打字</li>
+<li>不忘初心，希望你知道为什么自己要打开这个教程，既然要做，就坚持到底，与作者互相监督</li>
+<li>会总结，举一反一</li>
+</ul>
+</blockquote>
+<ol>
+<li>
+<p>安装Python</p>
+<ol>
+<li>
+<p>下载Python（本项目使用3.7.9版本），<a href="https://wwa.lanzoui.com/imdjjqyohof">国内镜像链接</a>。</p>
+</li>
+<li>
+<p>安装Python</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/07/03/wfcVPTkIYmJAiZ2.png" alt="image-20210703162028287" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2021/07/03/YdjuTcH1g5XehsE.png" alt="image-20210703162147374" loading="lazy"></figure>
+</li>
+<li>
+<p>验证</p>
+<p>打开<code>Power Shell</code></p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2021/07/03/6yvadbRJ1LNcmi2.png" alt="image-20210703163416566" loading="lazy"></figure>
+<p>输入命令（注意是大写的V）：</p>
+<pre><code class="language-shell">python -V
+</code></pre>
+<p>有反应即成功。（先别关Power Shell）</p>
+<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2021/07/03/hHglJQmOcILd4qe.png" alt="image-20210703163608110" loading="lazy"></figure>
+</li>
+<li>
+<p>更换国内源（这里选择 清华源）</p>
+</li>
+</ol>
+<p>python有很多的库（后面会用到，现在就跟着做即可。），内置的pip源访问速度很慢，换成国内源能有效提升编程（养发）体验。</p>
+<p>在上面的power shell内继续输入：</p>
+<pre><code class="language-shell">pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+</code></pre>
+<p>出现：</p>
+<pre><code class="language-shell">Writing to C:\Users\***\AppData\Roaming\pip\pip.ini
+</code></pre>
+<p>即为更换成功。</p>
+<ol start="5">
+<li>到此，Python开发环境配置完毕。</li>
+</ol>
+</li>
+<li>
+<p>安装Pycharm</p>
+<ol>
+<li>
+<p>下载，<a href="https://www.jetbrains.com/pycharm/download/#section=windows">链接</a>。</p>
+</li>
+<li>
+<p>安装，一路下一步即可。</p>
+</li>
+<li>
+<p>激活，参考网址<a href="https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html">Jetbrains系列产品重置试用方法</a>，仅供学习交流。</p>
+<figure data-type="image" tabindex="5"><img src="https://i.loli.net/2021/07/03/SgFJ4daZOHrmMot.png" alt="image-20210703162821315" loading="lazy"></figure>
+</li>
+<li>
+<p>常用插件。</p>
+<p>打开Pycharm，常用插件如图所示，自行在MarketPlace内搜索（除了IDE Eval Reset）。</p>
+<figure data-type="image" tabindex="6"><img src="https://i.loli.net/2021/07/03/oPKVx2LHMy1B3X8.png" alt="image-20210703164523344" loading="lazy"></figure>
+</li>
+<li>
+<p>至此，开发软件安装完毕。</p>
+</li>
+</ol>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四六级相关资料]]></title>
+        <id>https://jsjk01.github.io/post/si-ji-xiang-guan-zi-liao/</id>
+        <link href="https://jsjk01.github.io/post/si-ji-xiang-guan-zi-liao/">
+        </link>
+        <updated>2021-05-04T15:36:51.000Z</updated>
+        <content type="html"><![CDATA[<p>下面这是四级所有的相关资料。在线播放✔️</p>
+<p>➡️ <a href="https://pan.uvooc.com/Learn/CET/CET4/">链接</a></p>
+]]></content>
+    </entry>
+</feed>
